@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib;
+using Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib;
 
-namespace Tyuiu.KropchevSR.Sprint4.Task4.V0
+namespace Tyuiu.KropchevSR.Sprint4.Task4.V12
 {
     internal class Program
     {
@@ -35,8 +35,8 @@ namespace Tyuiu.KropchevSR.Sprint4.Task4.V0
             {
                 for (int j = 0; j < columns; j++)
                 {
-                    Console.WriteLine($"{mtrx[i,j]} \t");
-                    
+                    Console.WriteLine($"{mtrx[i, j]} \t");
+
                 }
             }
             Console.WriteLine();

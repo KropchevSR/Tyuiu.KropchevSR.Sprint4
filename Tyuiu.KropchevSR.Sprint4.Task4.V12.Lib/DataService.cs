@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces;
 using tyuiu.cources.programming.interfaces.Sprint4;
 
-namespace Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib
+namespace Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib
 {
     public class DataService : ISprint4Task4V12
     {
-       public int[,] Calculate(int[,] matrix)
+        public int[,] Calculate(int[,] matrix)
         {
             int rows = matrix.GetUpperBound(0) + 1;
             int columns = matrix.Length / rows;

@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{77F39C15-AC53-4F35-90F7-4B26AFAC3DBA}</ProjectGuid>
+    <ProjectGuid>{9C61C51D-D414-458D-996A-522158869CC2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V0.Test</RootNamespace>
-    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V0.Test</AssemblyName>
+    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V12.Test</RootNamespace>
+    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V12.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib\Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib.csproj">
-      <Project>{dd94675c-3ba7-4b67-b7d7-e36ca77b8c6c}</Project>
-      <Name>Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib\Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib.csproj">
+      <Project>{7494071a-5b7c-42cb-85cd-a33f644f3da0}</Project>
+      <Name>Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

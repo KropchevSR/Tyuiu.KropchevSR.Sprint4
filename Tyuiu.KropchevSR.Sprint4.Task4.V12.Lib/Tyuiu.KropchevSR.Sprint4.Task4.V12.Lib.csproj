@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DD94675C-3BA7-4B67-B7D7-E36CA77B8C6C}</ProjectGuid>
+    <ProjectGuid>{7494071A-5B7C-42CB-85CD-A33F644F3DA0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

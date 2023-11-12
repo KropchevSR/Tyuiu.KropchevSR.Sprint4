@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A742791-B2B3-44C8-8481-B0AF1C952A32}</ProjectGuid>
+    <ProjectGuid>{695BEB74-A844-411B-AEE7-4DEE0B8147EF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V0</RootNamespace>
-    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V0</AssemblyName>
+    <RootNamespace>Tyuiu.KropchevSR.Sprint4.Task4.V12</RootNamespace>
+    <AssemblyName>Tyuiu.KropchevSR.Sprint4.Task4.V12</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib\Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib.csproj">
-      <Project>{dd94675c-3ba7-4b67-b7d7-e36ca77b8c6c}</Project>
-      <Name>Tyuiu.KropchevSR.Sprint4.Task4.V0.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib\Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib.csproj">
+      <Project>{7494071a-5b7c-42cb-85cd-a33f644f3da0}</Project>
+      <Name>Tyuiu.KropchevSR.Sprint4.Task4.V12.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
